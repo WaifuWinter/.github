@@ -1,4 +1,6 @@
 ## Hi there 👋
+Focusd on creating waifu centric software to further the reach of anime and western-anime style art. 
+Mom I'm scared.
 
 <!--
 
